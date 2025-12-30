@@ -20,6 +20,7 @@
 ## People to Follow
 
 - [Lee Robinson](https://leerob.com/) - Works at Cursor teaching about AI, previously at Vercel, creates content on developer experience and AI coding.
+- [Simon Willison](https://simonwillison.net/) - Creator of Datasette, extensive LLM coverage and documentation, advocate for AI-assisted "vibe coding".
 
 ---
 
