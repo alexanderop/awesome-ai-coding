@@ -19,7 +19,7 @@
 
 ## People to Follow
 
-*Coming soon*
+- [Lee Robinson](https://leerob.com/) - Works at Cursor teaching about AI, previously at Vercel, creates content on developer experience and AI coding.
 
 ---
 
