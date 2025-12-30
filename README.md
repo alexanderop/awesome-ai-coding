@@ -19,6 +19,7 @@
 
 ## People to Follow
 
+- [Andrej Karpathy](https://karpathy.ai/) - Founder of Eureka Labs, former Director of AI at Tesla, OpenAI founding member, creates educational content on LLMs and deep learning.
 - [Lee Robinson](https://leerob.com/) - Works at Cursor teaching about AI, previously at Vercel, creates content on developer experience and AI coding.
 - [Simon Willison](https://simonwillison.net/) - Creator of Datasette, extensive LLM coverage and documentation, advocate for AI-assisted "vibe coding".
 
