@@ -6,6 +6,7 @@
 
 - [Blog Posts](#blog-posts)
 - [YouTube Videos](#youtube-videos)
+- [Reddit Communities](#reddit-communities)
 - [People to Follow](#people-to-follow)
 
 ## Blog Posts
@@ -17,6 +18,10 @@
 ## YouTube Videos
 
 *Coming soon*
+
+## Reddit Communities
+
+- [r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/) - Community for Claude Code users to share tips, workflows, and discussions.
 
 ## People to Follow
 
