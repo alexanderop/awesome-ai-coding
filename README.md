@@ -10,6 +10,7 @@
 
 ## Blog Posts
 
+- [Building low-level software with only coding agents](https://leerob.com/pixo) - Lee Robinson documents building a Rust-based image compression library using AI coding agents without writing any code manually.
 - [Writing a good CLAUDE.md](https://www.hlyr.dev/blog/writing-a-good-claude-md) - Best practices for creating effective CLAUDE.md files that help Claude Code understand your codebase.
 
 ## YouTube Videos
