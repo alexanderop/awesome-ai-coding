@@ -25,6 +25,7 @@
 
 ## YouTube Videos
 
+- [AI Engineer](https://www.youtube.com/@aiDotEngineer) - Conference talks and masterclasses from AI Engineer Summit, covering AI SDK, code agents, and practical AI engineering.
 - [Aider Tutorial - AI Pair Programming in Your Terminal](https://youtu.be/UjpsreVkTl0) - Tutorial on using Aider with Ollama for fully local, privacy-first AI pair programming.
 - [AI Vibe Coding Tutorial and Workflow](https://www.youtube.com/watch?v=YWwS911iLhg) - ByteGrad's comprehensive tutorial covering PRD, Cursor Rules, and MCP integration for AI-powered development.
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Anthropic's official comprehensive training on Claude Code covering architecture, implementation, and MCP servers.
