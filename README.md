@@ -17,6 +17,7 @@
 - [Beyond Vibe Coding](https://beyond.addy.ie/) - Addy Osmani's comprehensive guide on integrating AI into development workflows, covering the "70% problem".
 - [Building low-level software with only coding agents](https://leerob.com/pixo) - Lee Robinson documents building a Rust-based image compression library using AI coding agents without writing any code manually.
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) - Practical guidance on using Claude Code covering customization strategies, workflow patterns, and optimization techniques.
+- [Emergent Minds](https://paddo.dev/) - Technical blog on AI coding, software architecture, and agent-based development where human intuition meets artificial intelligence.
 - [How to build reliable AI workflows with agentic primitives](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) - Technical deep-dive on context engineering and building reliable AI agent workflows.
 - [Not all AI-assisted programming is vibe coding](https://simonwillison.net/2025/Mar/19/vibe-coding/) - Simon Willison distinguishes between vibe coding and structured AI-assisted development.
 - [Our experiment with GitHub Copilot](https://www.thoughtworks.com/insights/blog/generative-ai/experiment-github-copilot-practical-guide) - ThoughtWorks documents real-world Copilot implementation including CI/CD safeguards and TDD challenges.
