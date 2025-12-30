@@ -14,6 +14,7 @@
 - [A Year Of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) - Armin Ronacher reflects on his AI coding journey, now preferring the role of engineering lead to a virtual programmer intern.
 - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) - Armin Ronacher shares his Claude Code workflow including model selection and hands-off agentic coding tips.
 - [AI Is Forcing Us To Write Good Code](https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code) - Explains how AI coding agents require robust development practices like 100% test coverage and strong typing to function effectively.
+- [Background Coding Agents: Context Engineering (Part 2)](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2) - Explores how Spotify engineers effective prompts and tool configurations to make AI coding agents reliably produce mergeable pull requests.
 - [Beyond Vibe Coding](https://beyond.addy.ie/) - Addy Osmani's comprehensive guide on integrating AI into development workflows, covering the "70% problem".
 - [Building low-level software with only coding agents](https://leerob.com/pixo) - Lee Robinson documents building a Rust-based image compression library using AI coding agents without writing any code manually.
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) - Practical guidance on using Claude Code covering customization strategies, workflow patterns, and optimization techniques.
