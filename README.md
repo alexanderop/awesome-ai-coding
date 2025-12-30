@@ -17,7 +17,7 @@
 
 ## YouTube Videos
 
-*Coming soon*
+- [IndyDevDan](https://www.youtube.com/@indydevdan) - Focuses on agentic engineering, building real products with AI tools while avoiding hype and prioritizing practical value creation.
 
 ## Reddit Communities
 
