@@ -18,6 +18,7 @@
 ## YouTube Videos
 
 - [IndyDevDan](https://www.youtube.com/@indydevdan) - Focuses on agentic engineering, building real products with AI tools while avoiding hype and prioritizing practical value creation.
+- [RepoSwarm - Giving AI Agents Architecture Context Across All Your Repos](https://www.youtube.com/watch?v=rOMf9xvpgtc) - Roy Osherove demonstrates RepoSwarm, an open-source tool that scans multiple repositories to generate architecture documentation and provide AI agents with full organizational context.
 
 ## Reddit Communities
 
