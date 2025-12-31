@@ -42,6 +42,7 @@
 - 📝 [Emergent Minds](https://paddo.dev/) - Technical blog on AI coding, software architecture, and agent-based development where human intuition meets artificial intelligence.
 - 📝 [How to build reliable AI workflows with agentic primitives](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) - Technical deep-dive on context engineering and building reliable AI agent workflows.
 - 📺 [IndyDevDan](https://www.youtube.com/@indydevdan) - Focuses on agentic engineering, building real products with AI tools while avoiding hype and prioritizing practical value creation.
+- 🛠️ [mdflow](https://github.com/johnlindquist/mdflow) - CLI tool that transforms markdown files into executable AI agent commands for multiple LLM backends.
 - 📝 [Not all AI-assisted programming is vibe coding](https://simonwillison.net/2025/Mar/19/vibe-coding/) - Simon Willison distinguishes between vibe coding and structured AI-assisted development.
 - 🎬 [RepoSwarm - Giving AI Agents Architecture Context Across All Your Repos](https://www.youtube.com/watch?v=rOMf9xvpgtc) - Roy Osherove demonstrates RepoSwarm, an open-source tool that scans multiple repositories to generate architecture documentation and provide AI agents with full organizational context.
 
